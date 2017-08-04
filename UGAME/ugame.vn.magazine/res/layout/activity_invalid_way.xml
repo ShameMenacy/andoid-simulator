@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BROWN_BACKGROUND"
+    tools:context=".InvalidWay" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="@dimen/margin_MEDIUM_10dp"
+            android:text="@string/VN_Invalidway_rules"
+            android:textColor="@color/WHITE"
+            android:textSize="@dimen/textSize_SMALL_13sp" />
+
+        <Button
+            android:id="@+id/button_invalidway_confirm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_MEDIUM_10dp"
+            android:background="@color/BLUE_BUTTON_REGISTRATION"
+            android:gravity="center"
+            android:padding="@dimen/margin_MEDIUM_10dp"
+            android:text="@string/VN_Invalidway_confirm"
+            android:textColor="@color/WHITE" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/include2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        layout="@layout/view_button_skip" />
+
+</RelativeLayout>

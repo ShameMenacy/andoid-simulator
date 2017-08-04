@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_bg">#232323</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="BROWN_BACKGROUND">#232323</color>
+    <color name="BLUE_BUTTON_REGISTRATION">#579AA9</color>
+    <color name="button_skip_bg">#1b7e5a</color>
+    <color name="text_skip_bg">#265259</color>
+    <color name="button_click_bg">#f7941d</color>
+    <color name="black">#232323</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#1B7E5A</color>
+    <color name="blue">#579AA9</color>
+    <color name="active_text_input">#1B7E5A</color>
+    <color name="orange">#f7941d</color>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Umagazine</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="vn_title_activity_user_filter">Bạn là ai?</string>
+    <string name="registration_guide">Enter your phone number and press <b>Continue</b></string>
+    <string name="registration_display_logo">Display Logo</string>
+    <string name="registration_continue">gửi mã kích hoạt</string>
+    <string name="title_activity_activation">Activation</string>
+    <string name="activation_guide">"An access code has been send to you by SMS. Enter it below: "</string>
+    <string name="activation_hint">If you do not recieve your access code within 60seconds, go back</string>
+    <string name="activation_activation">Activation</string>
+    <string name="VN_TITLE_activity_invalid_way">InvalidWay</string>
+    <string name="VN_Invalidway_confirm">TÔI ĐỒNG Ý</string>
+    <string name="VN_Invalidway_rules">Chào mừng bạn đến với Google!
+\n
+\nCảm ơn bạn đã sử dụng các sản phẩm và dịch vụ của chúng tôi (“Dịch vụ”). Dịch vụ được cung cấp bởi Google Inc. (“Google”) có trụ sở tại 1600 Amphitheatre Parkway, Mountain View, CA 94043, Hoa Kỳ.
+\n
+\nBằng việc sử dụng Dịch vụ của chúng tôi, bạn đang đồng ý với các điều khoản này. Vui lòng đọc kỹ các điều khoản này.
+\n
+\nDịch vụ của chúng tôi rất đa dạng nên đôi khi có thể áp dụng các điều khoản bổ sung hoặc các yêu cầu về sản phẩm (bao gồm cả yêu cầu về độ tuổi). Các điều khoản bổ sung sẽ được cung cấp kèm theo Dịch vụ liên quan và các điều khoản bổ sung đó sẽ trở thành một phần thuộc thỏa thuận của bạn với chúng tôi nếu bạn sử dụng các Dịch vụ đó.</string>
+    <string name="VN_Registration_skip">BỎ QUA BƯỚC KÍCH HOẠT</string>
+    <string name="hint_number">số điện thoại</string>
+    <string name="active_code">Nhập mã kích hoạt</string>
+    <string name="btn_active">KÍCH HOẠT</string>
+    <string name="btn_kept">BỎ QUA BƯỚC KÍCH HOẠT</string>
+    <string name="VN_UserFilter_multiChoiceText">Bạn có thể có nhiều hơn 1 sự lựa chọn!</string>
+    <string name="VN_UserFilter_Continue">TIẾP TỤC</string>
+    <string name="COMMON_ContentDesctiption">ugame.vn</string>
+	<string name="action_bar_title">Chơi gì hôm nay</string>
+	<string name="left_menu">Left menu</string>
+	<string name="intro">uplay.com.vn</string>
+	<string name="loading_text">Vui lòng chờ trong ít phút ...</string>
+	<string name="app_title">Chơi gì hôm nay</string>
+
+</resources>

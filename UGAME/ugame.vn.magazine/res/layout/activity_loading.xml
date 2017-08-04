@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_bg"
+    android:paddingBottom="@dimen/activation_horizontal_margin_bottom_35dp"
+    android:paddingLeft="@dimen/activation_horizontal_margin_left_20dp"
+    android:paddingRight="@dimen/activation_horizontal_margin_right_20dp"
+    android:paddingTop="@dimen/activation_horizontal_margin_top_35dp"
+    tools:context=".LoadingActivity" >
+
+    <ImageView
+        android:id="@+id/loading_ivLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/intro"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/activity_vertical_margin_16dp"
+        android:text="@string/loading_text"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textSize_normal_16sp" />
+
+</RelativeLayout>
